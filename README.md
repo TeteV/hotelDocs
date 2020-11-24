@@ -11,7 +11,7 @@ Is under construction but I put all my energy into it.
 ## Appearance
 ***
 There's the login windows, you can log with Facebook/Google Auth or with a basic auth with user and password
-![Image text](https://github.com/TeteV/hotelDocs/img/log-wind.jpg)
+![Image text](https://github.com/TeteV/hotelDocs/blob/master/img/log-wind.JPG)
 
 ***
 Here's Sign-in and Sign-up window so simple\
