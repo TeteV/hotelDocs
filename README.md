@@ -21,7 +21,7 @@ Here's Sign-in and Sign-up window so simple\
 
 There's all the rooms avaible in the hotel, and when you click in your favorite room you see some look like that\
 ![Image text](https://github.com/TeteV/hotelDocs/blob/master/img/search.JPG)
-![Image text](https://github.com/TeteV/hotelDocs/blob/master/img/searchead.jpg)
+![Image text](https://github.com/TeteV/hotelDocs/blob/master/img/searchead.JPG)
 
 ***
 Here the details of the room: photos and a form where you check/put your info.\
